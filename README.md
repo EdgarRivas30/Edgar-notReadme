@@ -1,2 +1,1 @@
-# Precourse-Henry-Edgar
-Repositorio de prueba del modulo 2 del precourse Henry
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
